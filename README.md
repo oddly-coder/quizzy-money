@@ -22,7 +22,7 @@ Npm
 Once you have installed the required packages shown on the Required Installations, proceed with the following steps :
 
 Clone this Repository
-git clone https://github.com/UgegeDaniel/quizzy-money.git
+git clone https://github.com/oddly-coder/quizzy-money.git
 
 Move to the downloaded folder
 cd quizzy-money
