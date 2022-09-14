@@ -34,7 +34,7 @@ function Home() {
   return (
     <div className="container">
       <div className='container'>
-      <div className="card bg*">
+      <div className="card bg-*">
             <h3 className='mb-5 bg-danger  card-title'>QUIZZY MONEY</h3>
             <div className='card-body'>
               <label>Categories:</label>
