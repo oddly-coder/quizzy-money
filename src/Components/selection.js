@@ -50,7 +50,7 @@ export const successText = [
   "After you na you, boss"
 ]
 export const failureText = [
-  "You'll get it next time"
+  "You'll get it next time",
   "At least you know you're not right",
   "Don't feel bad",
   "That is wrong",
